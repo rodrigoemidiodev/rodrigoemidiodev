@@ -1,3 +1,13 @@
 ## Repositórios Disponíveis
   - [Arquitetura de Computadores](https://github.com/RodrigoDoGit/AC) 
-  
+  - [Bases de Dados](https://github.com/RodrigoDoGit/BD)
+  - [Desenho e Análise de Algoritmos](https://github.com/RodrigoDoGit/DAA)
+  - [Estruturas de Dados](https://github.com/RodrigoDoGit/EDados)
+  - [Inteligência Artificial](https://github.com/RodrigoDoGit/IA)
+  - [Introdução aos Computadores](https://github.com/RodrigoDoGit/IC)
+  - [Laboratório de Computadores](https://github.com/RodrigoDoGit/LabC)
+  - [Programação em Lógica](https://github.com/RodrigoDoGit/Prolog)
+  - [Programação Funcional](https://github.com/RodrigoDoGit/Funcional)
+  - [Programação Imperativa](https://github.com/RodrigoDoGit/PI)
+  - [Segurança e Privacidade](https://github.com/RodrigoDoGit/SP)
+  - [Sistemas de Operação](https://github.com/RodrigoDoGit/SO)
