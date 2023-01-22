@@ -1,6 +1,7 @@
 ## Repositórios Disponíveis
   - [Arquitetura de Computadores](https://github.com/RodrigoDoGit/AC) 
   - [Bases de Dados](https://github.com/RodrigoDoGit/BD)
+  - [Compiladores](https://github.com/RodrigoDoGit/Compiladores)
   - [Desenho e Análise de Algoritmos](https://github.com/RodrigoDoGit/DAA)
   - [Estruturas de Dados](https://github.com/RodrigoDoGit/EDados)
   - [Introdução aos Computadores](https://github.com/RodrigoDoGit/IC)
