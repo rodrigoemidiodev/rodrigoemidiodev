@@ -9,6 +9,7 @@
   - [Programação em Lógica](https://github.com/RodrigoDoGit/Prolog)
   - [Programação Funcional](https://github.com/RodrigoDoGit/Funcional)
   - [Programação Imperativa](https://github.com/RodrigoDoGit/PI)
+  - [Semânticas de Linguagens de Programação](https://github.com/RodrigoDoGit/SLP)
   - [Sistemas de Operação](https://github.com/RodrigoDoGit/SO)
   - [Workshops](https://github.com/RodrigoDoGit/Workshops)
  
