@@ -11,5 +11,6 @@
   - [Programação Imperativa](https://github.com/RodrigoDoGit/PI)
   - [Semânticas de Linguagens de Programação](https://github.com/RodrigoDoGit/SLP)
   - [Sistemas de Operação](https://github.com/RodrigoDoGit/SO)
+  - [Tecnologias Web](https://github.com/RodrigoDoGit/TW)
   - [Workshops](https://github.com/RodrigoDoGit/Workshops)
  
