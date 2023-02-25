@@ -6,6 +6,8 @@
   - [Estruturas de Dados](https://github.com/RodrigoDoGit/EDados)
   - [Introdução aos Computadores](https://github.com/RodrigoDoGit/IC)
   - [Laboratório de Computadores](https://github.com/RodrigoDoGit/LabC)
+  - [Métodos de Apoio à Decisão](https://github.com/RodrigoDoGit/MAD)
+  - [Programação Concorrente](https://github.com/RodrigoDoGit/Concorrente)
   - [Programação em Lógica](https://github.com/RodrigoDoGit/Prolog)
   - [Programação Funcional](https://github.com/RodrigoDoGit/Funcional)
   - [Programação Imperativa](https://github.com/RodrigoDoGit/PI)
