@@ -1,4 +1,4 @@
-## Lists of Available Repositories
+## Lista de Repositórios Disponíveis
   - [Aprendizagem Computacional I](https://github.com/RodrigoDoGit/AC1) 
   - [Arquitetura de Computadores](https://github.com/RodrigoDoGit/AC) 
   - [Bases de Dados](https://github.com/RodrigoDoGit/BD)
