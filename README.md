@@ -1,4 +1,4 @@
-<h1 align="center">Rodrigo Emídio</h1>
+<h1 align="center">Hi there, I'm Rodrigo Emídio!</h1>
 <h3 align="left">Reach me out:</h3>
 <p align="left">
 <a href="https://twitter.com/mrrodrigoemidio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrrodrigoemidio" height="30" width="40" /></a>
