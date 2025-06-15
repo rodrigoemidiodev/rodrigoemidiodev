@@ -1,6 +1,6 @@
 <h1 align="center">Hi there</h1>
 <h3 align="left">About me</h3>
-My name is Rodrigo Emídio, and I am a Computer Scientist doing the Master in Computer Science. 
+My name is Rodrigo Emídio, I am a Computer Scientist doing the Master in Computer Science and also currently working as AI intern. 
 
 <h3 align="left">Reach me out</h3>
 <p align="left">
